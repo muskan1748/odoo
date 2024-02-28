@@ -4,7 +4,7 @@
     'version':'16.0',
     'website': 'www.google.com',
     'summary': 'hospital management',
-    'depends':['base, mail'],
+    'depends':['mail'],
     'data': [
             'security/ir.model.access.csv',
             'views/menu.xml',
