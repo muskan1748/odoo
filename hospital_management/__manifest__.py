@@ -9,8 +9,7 @@
             'views/menu.xml',
             'views/patient.xml'
             ],
-    'images': ['static/description/icon.png'],
-    'images': ['static/description/banner.gif'],
+    # 'images': ['static/description/banner.gif'],
     'installable': True,
     'auto_install': False,
 }
